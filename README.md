@@ -1,2 +1,2 @@
-# CodeAlpha_Project-Management-Tool
-TaskFlow is a real-time project management tool that lets teams create projects, manage tasks, and track progress on a clean Kanban-style board. Built with React, TailwindCSS, Node.js, and MongoDB, it delivers instant updates and a modern, responsive experience.
+Backend: npm install, run seed with `npm run seed`, start with `npm run dev`.
+Default mongo: mongodb://127.0.0.1:27017/project_tool_light
